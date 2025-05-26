@@ -1,0 +1,3 @@
+/**
+ * Sintaxis del lenguaje JavaScrib
+ */
