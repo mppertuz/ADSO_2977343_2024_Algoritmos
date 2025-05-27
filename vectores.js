@@ -27,3 +27,15 @@ for (let i = 1; 1 <= 10; i++){
 for (let i = 1; 1 <= 10; i++){
     console.log(' 5 x ' + i + ' = ' + resultados [i - 1]);
 }
+
+/*
+ * Matrices
+ */
+
+let datos = [
+    ['manzana', 'Pera', 'Papaya', 'Piña'],
+    ['Papa', 'Tomate', 'Yuca', 'Ajo'],
+    ['Arroz', 'Frijol', 'Cebada', 'Garbanzo']
+];
+
+console.log(datos);
