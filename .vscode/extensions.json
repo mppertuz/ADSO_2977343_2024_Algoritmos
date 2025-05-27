@@ -2,6 +2,7 @@
     "recommendations": [
         "ritwickdey.liveserver",
         "ms-vscode.live-server",
-        "xabikos.javascriptsnippets"
+        "xabikos.javascriptsnippets",
+        "esbenp.prettier-vscode"
     ]
 }
