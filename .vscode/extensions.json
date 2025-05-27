@@ -3,6 +3,7 @@
         "ritwickdey.liveserver",
         "ms-vscode.live-server",
         "xabikos.javascriptsnippets",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "whtouche.vscode-js-console-utils"
     ]
 }
